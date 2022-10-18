@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbrightw
+- 👋 Hi, I’m Aynur
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript, React
 
