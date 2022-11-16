@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aynur
 - 👀 I’m interested in coding, especially on:
 
-<div display="flex text-center">
+<div display="flex" text-align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
